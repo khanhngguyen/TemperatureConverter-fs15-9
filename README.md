@@ -1,6 +1,6 @@
 # Temperature Converter
 
-You are tasked to develop a temperature converter program in C#. The program will accept temperature values in Fahrenheit, Celsius, and Kelvin, and convert them to their corresponding values in the other units.
+You are tasked to develop a temperature converter program in C#. The program will accept temperature values in Fahrenheit, Celsius, and convert them to their corresponding values in the other units.
 
 ## Requirements
 
